@@ -58,4 +58,4 @@ else:
     print("""INVALID CHOICE TRY 'pummel', 'magic', or 'run'.""")
     exit()
 
-print("""hello this is the end of the demo sorry about that but you can recive the full game if you email 'xanderrowland2011@gmail.com' you might get full access""")
+print("""hello this is the end of the demo sorry about that""")
