@@ -1,4 +1,4 @@
-
+print(""" hello this is Xander an this text adventure game is dedicated to My Dad who has 53,000 comic give or take""")
 print("""Warning: This is unfinished and a free version""")
 print("""GAME BY XANDERCATR999 or simply XANDER""")
 print("""welcome to Comic Quest (TM) (C) : The Text Adventure.""")
@@ -58,22 +58,4 @@ else:
     print("""INVALID CHOICE TRY 'pummel', 'magic', or 'run'.""")
     exit()
 
-choice5 = input("""after defeating bob using the forbidden spell 'rage of a thousand comic collectors' you find a pristine copy of Action Comics #1, your final holy grail of all holy grails. do you 'take it'? or do you 'leave it'?""")
-
-if choice5 == 'take it':
-    print(f"""you fall to your knees as bob casts 'rage of a thousand comic collectors' at you!!! however you manage to dodge the attack and cast a counter spell!!!! The End? ENDING #1 : MORALLY GRAY GARY""")
-    print("""congrats on making it to the end :)""")
-elif choice5 =='leave it':
-    print(f"""you leave the holy grail and help bob up and hand him a 50 dollar bill for his trouble. The End? ENDING #3 : SUPER SCOTT""")
-    print("""congrats on making it to the end :)""")
-elif choice5 == 'stare at him':
-    print("""you stand there staring at him as you round up his belongings and take them and run.The End? ENDING #4 : NEGLIGENT NORMAN""")
-    print("""congrats on making it to the end :)""")
-elif choice5 == 'beat em up':
-    print("""You start beating him up until the police drag you off of him and arrest you. GAME OVER  """)
-elif choice5 == 'run':
-    print(""" you run back to your house and go to sleep. you then wake up on the next day with the new found hope that you will find the holy grail once more. The End? ENDING #2 Scott's Second Search""")
-    print("""congrats on making it to the end :)""")
-else:
-    print("""INVALID CHOICE TRY: take it' or 'leave it' extra choices: 'stare at him' or 'beat em up' or 'run""")
-    exit()
+print("""hello this is the end of the demo sorry about that but you can recive the full game if you email 'xanderrowland2011@gmail.com' you might get full access""")
