@@ -1,4 +1,4 @@
-print(""" hello this is Xander an this text adventure game is dedicated to My Dad who has 53,000 comic give or take""")
+print(""" hello this is Xander an this text adventure game is dedicated to My Dad who has 53,000 comics give or take""")
 print("""Warning: This is unfinished and a free version""")
 print("""GAME BY XANDERCATR999 or simply XANDER""")
 print("""welcome to Comic Quest (TM) (C) : The Text Adventure.""")
