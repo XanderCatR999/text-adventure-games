@@ -1,3 +1,3 @@
-# Text Adevnture Games
-XORKOID GAME PYTHON VERISON
+# Text Adeventure Games
+Text Adventure Games
 go to 'https://github.com/Maxwe-dev/ZORKOID' for the lua branch
